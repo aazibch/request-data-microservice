@@ -1,0 +1,14 @@
+{
+  "name": "request-data-microservice",
+  "version": "1.0.0",
+  "description": "An API that responds with some data about the client.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aazib Chaudhry",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
